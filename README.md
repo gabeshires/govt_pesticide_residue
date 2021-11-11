@@ -21,7 +21,9 @@ We should use streamlit to create a dashboard that would allow the following gro
 1) Summary of each product (apples or aubergines), grouped by country of origin
     
     1b) under each Country group, results grouped by detected chemicals (DC)
+    
     1c) for each DC, show the count of products with some detected and the range they were in
+    
     1d) for each DC, show the count of products with none-detected
 2) Counts of product items grouped by country of origin, e.g "Apples from USA = 6, Apples from France = 3 "
 3) Distribution of DCs grouped by country of origin, e.g. boscalid : UK = 2, USA = 5.
