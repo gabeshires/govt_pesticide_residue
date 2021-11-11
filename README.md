@@ -5,6 +5,8 @@ The data is imported into Pandas Dataframes and can be analysed.
 
 The Department for Environment, Food and Rural Affairs conducts pesticide testing Data is released in Open Document Spreadsheet format and released on data.gov.uk [here](https://data.gov.uk/dataset/5d5028ef-9918-4ab7-8755-81f3ad06f308/pesticide-residues-in-food). Much of the quarterly and annual data is available in this repo's [data folder](https://github.com/james-westwood/govt_pesticide_test_data_downloader/tree/master/data_files). 
 
+Currently (11/11/21) the script is in a [Jupyter Notebook](https://github.com/james-westwood/govt_pesticide_test_data_downloader/blob/master/govt_pest_data_latest.ipynb) which has not been updated for 2 years. The first task would be to export the Notebook to a .py file, and make sure the script as is works as a continuous pipeline. 
+
 ## Requirements of the data parsing script
 
 What this script should (eventually) do:
