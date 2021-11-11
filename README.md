@@ -40,4 +40,4 @@ Types of visualisation:
   2c) same as above but show breakdown
 3) scattergraph of amounts detected across product category, compared to MRLs (either individual DCs or agregated)
 4) Stacked bargraph showing total amount detected per sample, with a different colour to represent each DC.
-# 5) some kind of graph to represent the chemicals that were not detected
+5) some kind of graph to represent the chemicals that were not detected
