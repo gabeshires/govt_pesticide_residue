@@ -17,7 +17,7 @@ What this script should (eventually) do:
 - Split the "Pesticide residues found in mg/kg (MRL)" (which is a combo of three pieces of info" into three separate columns (Chemical Detected, Amount Detected, MRL)
   - Be able to cope if multiple chemicals are detected
 
-## Creating a dashboard
+### Creating a dashboard
 
 We should use streamlit to create a dashboard that would allow the following grouping and visualisation for analysis:
 1) Summary of each product (apples or aubergines), grouped by country of origin
@@ -33,7 +33,7 @@ We should use streamlit to create a dashboard that would allow the following gro
 5) A table showing number of residues, sample ID, Type of apple, amounts of each DC (and a '-' if n/a) and the country of origin
 6) total list of chemicals analysed for but not found.
 
-Types of visualisation:
+#### Types of visualisation:
 1) for each product, show chart of prods with none detected, one detected, multiple detected
 2) same as above, but filter by supermarket.
   2b) same as above but filter by country of origin
